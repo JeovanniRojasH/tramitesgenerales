@@ -1,0 +1,146 @@
+body{
+    background-image: url(https://www.10wallpaper.com/wallpaper/1366x768/1308/cube_3d_graphics_black_gray-Design_HD_wallpaper_1366x768.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+
+.resolucion{
+    width: 99%;
+}
+
+/**Movil**/
+@media (max-width: 767px){
+    .desktop{
+        display: none;
+    }
+    .tableta{
+        display: none;
+    }
+}
+
+/**Escritorio**/
+@media (min-width: 991px){
+    
+    .tableta{
+        display: none;
+    }
+    .movil{
+        display: none;
+    }
+}
+
+/**Tableta**/
+@media (min-width: 768px) and (max-width: 990px){
+    .desktop{
+        display: none;
+    }
+    .movil{
+        display: none;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+ 
+.div1{
+    background-color: rgb(131, 141, 141);
+    width: 250px;
+    height: 250px;
+    padding: 30px;
+}
+
+.con{
+    display: flex;
+}
+
+
+
+
+.imagen-1{
+    
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    
+}
+
+.imagen-2{
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom:20px;
+    
+}
+
+.imagen-3{
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom:20px;
+}
+
+.imagen-4{
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom:20px;
+}
+
+.imagen-5{
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom:20px;
+}
+
+.imagen-6{
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom:20px;
+    
+}
+
+.imagen-7{
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom:20px;
+    
+    
+}
+
+.imagen-8{
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom:20px;
+}
